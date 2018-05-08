@@ -21,6 +21,7 @@ It helps me determine how many branches are from master and which have been merg
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+You are able to merge your branch with master. To visualize how many branches are there from a master.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
