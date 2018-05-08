@@ -8,6 +8,7 @@ want to commit into the repository. You don't have to commit all of your changes
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You can do a git diff --staged to see the difference between the staging area and the repository.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
