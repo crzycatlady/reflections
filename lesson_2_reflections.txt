@@ -25,3 +25,5 @@ You are able to merge your branch with master. To visualize how many branches ar
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+The automatic merging makes it easier but I cannot revert a mistake if one happens and can be error prone. 
+Manual can be time consuming and can potentially be user error prone.
