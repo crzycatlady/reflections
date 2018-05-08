@@ -17,6 +17,7 @@ merged to the master. Branches are good when everyone needs to work on various v
 affecting the master branch.
 
 How do the diagrams help you visualize the branch structure?
+It helps me determine how many branches are from master and which have been merged into the master.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
