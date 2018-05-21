@@ -1,12 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    If local environment either gets deleted or crashes, only your local work is lost and not the entire repository. 
+	Since everything was stored in the remote repository, you can easily clone the repository in a new environment.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Often many developers can work on multiple features and bugs and constant updates can cause issues with development.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
