@@ -30,4 +30,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you are working on a certain bug or a certain and don't want to interrupt the master branch. It will
+	make sure that your code is production ready before merging it into master.
