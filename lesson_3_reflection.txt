@@ -23,7 +23,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    It would be a lot of meetings or peer reviews between developers looking at code. It would depend other subversions 
+	tools I could create a branch and have my fellow developers to review my code before I merge it into master. Merging
+	will be tedious task. Git and Github features has defiently makes it a lot easier to commit and merge code.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
